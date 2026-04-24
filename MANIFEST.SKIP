@@ -27,7 +27,7 @@ MYMETA.yml
 \.git/*
 ^tmp/*
 cover_db/
-dbdpg_test_database/*
+dbdpg_test/*
 versiontest/*
 t/00_release.t
 t/99_lint.t
